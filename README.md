@@ -5,7 +5,7 @@
 
 This project demonstrates **Machine Learning** techniques for predicting Tesla's **next-day closing stock price** using historical financial data. By implementing and comparing **Linear Regression** and **Random Forest Regressor** models, we explore how different algorithms perform on time-series stock prediction tasks.
 
-### 🔍 What We Do
+###  What's Done
 - **Fetch historical Tesla stock data** from Yahoo Finance (2018-2024)
 - **Preprocess and prepare** the dataset for machine learning
 - **Train two ML models**: Linear Regression and Random Forest
@@ -467,7 +467,7 @@ tesla-stock-prediction/
 ### **Haris Hussain**
  **AI/ML Intern** |  **Machine Learning Enthusiast**
 
-📧 **Email**: harishussain631@gmail.com  
+ **Email**: harishussain631@gmail.com  
 
 
 ### About Me
@@ -507,7 +507,7 @@ Passionate AI/ML intern with expertise in **financial modeling**, **time series 
 
 Interested in **collaborating** or have **questions** about this project?
 
-📧 **Email**: harishussain631@gmail.com  
+ **Email**: harishussain631@gmail.com  
 
 ---
 
@@ -521,4 +521,3 @@ If this project helped you learn about **stock price prediction** or **machine l
 
 ---
 
-** Happy Coding & Happy Predicting! **
