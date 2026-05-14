@@ -1,6 +1,5 @@
 # Tesla Stock Price Prediction using Linear Regression and Random Forest
 
-
 ## Project Overview
 
 This project demonstrates **Machine Learning** techniques for predicting Tesla's **next-day closing stock price** using historical financial data. By implementing and comparing **Linear Regression** and **Random Forest Regressor** models, we explore how different algorithms perform on time-series stock prediction tasks.
